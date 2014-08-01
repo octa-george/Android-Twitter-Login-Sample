@@ -1,6 +1,5 @@
 Twitter Login Sample
 ============================
-----------------------------
 
 To get started please edit the string.xml Consumer Key & Consumer Secret with your own keys.
 
