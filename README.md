@@ -37,7 +37,9 @@ By default your apps will be granted for read-only access. To change this, go to
 
 * To get the consumer and access tokens for an existing application, go to [My applications] (which is available from the menu in the upper-right).
 
-####[Prints](https://github.com/octa-george/Android-Twitter-Login-Sample/tree/master/screenshots)
+###Prints###
+
+<img alt="Login Dialog" src="https://github.com/octa-george/Android-Twitter-Login-Sample/blob/master/screenshots/device-2014-08-02-004040.png" height="400px" /> . <img alt="Login Progress Dialog" src="https://github.com/octa-george/Android-Twitter-Login-Sample/blob/master/screenshots/device-2014-08-02-004104.png" height="400px"/> . <img alt="Logout Screen" src="https://github.com/octa-george/Android-Twitter-Login-Sample/blob/master/screenshots/device-2014-08-02-003841.png" height="400px"/>
 
 
 License
