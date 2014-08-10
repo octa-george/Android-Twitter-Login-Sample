@@ -35,7 +35,7 @@ By default your apps will be granted for read-only access. To change this, go to
 
 ###Existing app###
 
-* To get the consumer and access tokens for an existing application, go to [My applications] (which is available from the menu in the upper-right).
+* To get the consumer and access tokens for an existing application, go to [My applications] - (which is available from the menu in the upper-right).
 
 ###Prints###
 
